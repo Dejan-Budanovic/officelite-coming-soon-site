@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap");
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 700;
+}
+
+h1 {
+  line-height: 4rem;
+}
+
+h2 {
+  line-height: 1.75rem;
+}
+
+h3 {
+  line-height: 3rem;
+  text-transform: uppercase;
+}
+
+p {
+  font-weight: 400;
+  line-height: 1.75rem;
+}
+
+:root {
+  --dark-blue: #5175ff;
+  --light-blue: #829cff;
+  --red: #f05b5b;
+  --dark-grey: #25293a;
+  --medium-grey: #333950;
+  --light-grey: #747b95;
+}/*# sourceMappingURL=style.css.map */
